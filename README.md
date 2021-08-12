@@ -7,7 +7,7 @@ We used data  from the website of the Department of Transport of the United Stat
 Finally, the second part of the work shows some of the infographics, created using the Tableau Desktop software.
 # Software
 
-We use  Python for implementing the scripting  and Tableau Desktop for  he infographics.
+We use  Python for implementing the scripting  and Tableau Desktop for  the infographics.
 
 # Team
 
