@@ -12,14 +12,12 @@ We use  Python for implementing the scripting  and Tableau Desktop for  the info
 # Team
 
 Silvia Ranieri - Data Science Student @ University of Milano-Bicocca
-
 s.ranieri7@campus.unimib.it
-Riccardo Confalonieri - Data Science Student @ University of Milano-Bicocca
 
+Riccardo Confalonieri- Data Science Student @ University of Milano-Bicocca
 r.confalonieri5@campus.unimib.it
-GitHub
-Rebecca picarelli - Data Science Student @ University of Milano-Bicocca
 
+Rebecca picarelli - Data Science Student @ University of Milano-Bicocca
 r.picarelli1@campus.unimib.it
 
 
